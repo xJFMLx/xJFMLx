@@ -7,3 +7,11 @@ Soy un Literato que está interesado en ser programador...
 ## Contact me
 
 Me puedes escribir por Discord ...
+
+## Skilss
+- Coaching
+- Adaptability
+- Problem-solving
+- Work ethic
+- Attention to detail
+- Communication
