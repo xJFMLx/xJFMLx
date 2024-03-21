@@ -8,7 +8,7 @@ Soy un Literato que está interesado en ser programador...
 
 Me puedes escribir por Discord ...
 
-## Skilss
+## Skills
 - Coaching
 - Adaptability
 - Problem-solving
