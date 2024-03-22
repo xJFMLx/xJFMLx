@@ -7,8 +7,3 @@ Soy un Literato que está interesado en ser programador...
 ## Contact me
 
 Me puedes escribir por Discord ...
-
-## Languages
-- English
-- Spanish
-- French
