@@ -9,6 +9,6 @@ Soy un Literato que está interesado en ser programador...
 Me puedes escribir por Discord ...
 
 ## Languages
-- English
-- Spanish
-- French
+- English (advance)
+- Spanish (native)
+- French (basic)
