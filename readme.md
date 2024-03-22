@@ -15,3 +15,9 @@ Me puedes escribir por Discord ...
 - Work ethic
 - Attention to detail
 - Communication
+
+## Hobbies
+
+- Reading
+- Games
+
