@@ -14,3 +14,18 @@ Me puedes escribir por Discord ...
 - CSS
 - JAVASCRIPT
 - PYTHON
+
+## Skills
+- Coaching
+- Adaptability
+- Problem-solving
+- Work ethic
+- Attention to detail
+- Communication
+
+## Hobbies
+
+- Reading
+- Games
+
+
