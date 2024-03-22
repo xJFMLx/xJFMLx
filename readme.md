@@ -8,7 +8,16 @@ Soy un Literato que está interesado en ser programador...
 
 Me puedes escribir por Discord ...
 
+## Skills
+- Coaching
+- Adaptability
+- Problem-solving
+- Work ethic
+- Attention to detail
+- Communication
+
 ## Hobbies
 
 - Reading
 - Games
+
