@@ -8,6 +8,13 @@ Soy un Literato que está interesado en ser programador...
 
 Me puedes escribir por Discord ...
 
+## Technologies
+
+- HTML
+- CSS
+- JAVASCRIPT
+- PYTHON
+
 ## Skills
 - Coaching
 - Adaptability
@@ -20,4 +27,5 @@ Me puedes escribir por Discord ...
 
 - Reading
 - Games
+
 
